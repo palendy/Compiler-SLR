@@ -1,0 +1,12 @@
+R1
+E>aBA
+R2
+E>BB
+R3
+E>Abc
+R4
+A>dA
+R5
+A>b
+R6
+B>#

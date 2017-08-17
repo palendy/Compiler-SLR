@@ -1,0 +1,16 @@
+R1
+E>TA
+R2
+A>+TA
+R3
+A>#
+R4
+T>FB
+R5
+B>*FB
+R6
+B>#
+R7
+F>(E)
+R8
+F>a
